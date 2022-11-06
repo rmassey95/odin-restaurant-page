@@ -13,6 +13,12 @@ body{
   width: 100%;
 }
 
+.map-img{
+  padding-top: 20px;
+  height: 400px;
+  width: auto;
+}
+
 .txt-img{
   display: flex;
   height: 150px;

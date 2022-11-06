@@ -1,5 +1,4 @@
 import CreateElement from './create-element';
-import header from './header';
 
 function headline(){
 

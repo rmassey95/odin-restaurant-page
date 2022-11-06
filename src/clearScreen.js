@@ -1,4 +1,4 @@
-export default function clearScreen(clearPageName){
+export default function clearScreen(){
   const bodyContent = document.querySelector('.body-content');
 
   if (bodyContent === null){
